@@ -5,6 +5,6 @@ django-filter
 djangorestframework
 whitenoise
 Python==3.10.6
-pyscopg2
+psycopg2
 pyjwt
 django-cors-headers
