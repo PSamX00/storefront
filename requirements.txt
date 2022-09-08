@@ -1,0 +1,10 @@
+Django
+gunicorn
+Markdown
+django-filter
+djangorestframework
+whitenoise
+Python==3.10.6
+psycopg2
+pyjwt
+django-cors-headers
