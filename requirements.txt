@@ -8,3 +8,4 @@ Python==3.10.6
 psycopg2
 pyjwt
 django-cors-headers
+python-decouple
