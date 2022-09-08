@@ -10,8 +10,6 @@ whitenoise = "*"
 django-heroku = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
-python-decouple="*"
 psycopg2 = "*"
 [requires]
 python_version = "3.10.6"
-
